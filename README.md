@@ -1,5 +1,5 @@
 
-# Zygisk SSAID/IMEI/MAC Spoofer
+# Zygisk SSAID/IMEI/MAC Spoofer..
 
 A Magisk Zygisk module to spoof SSAID, IMEI, and MAC address per app package.
 
