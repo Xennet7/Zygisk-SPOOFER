@@ -1,0 +1,6 @@
+id=zygisk_ssaid_spoofer
+name=Zygisk SSAID/IMEI/MAC Spoofer
+version=1.0
+versionCode=1
+author=ChatGPT
+description=Spoofs SSAID, IMEI, and MAC for selected apps using Zygisk
