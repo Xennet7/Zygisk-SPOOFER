@@ -1,3 +1,0 @@
-com.example.app:ssaid=0123456789abcdef
-com.bank.app:ssaid=deadbeefcafebabe
-com.foo.bar:ssaid=1122334455667788
